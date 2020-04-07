@@ -21,6 +21,8 @@ Business Rules
 - Eating habits will be recorded to measure the nutrition of campus community members.
 <br><br>
 EERD
+<br>
+ ![](EERD.png)
 <br><br>
 MySQL Queries
 <br><br>
