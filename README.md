@@ -22,7 +22,7 @@ Business Rules
 <br><br>
 EERD
 <br>
-![Use Case](UseCase.png)
+![alt text](http://url/to/img.png)
 <br><br>
 MySQL Queries
 <br><br>
