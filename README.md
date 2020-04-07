@@ -22,7 +22,7 @@ Business Rules
 <br><br>
 EERD
 <br>
-![Diagram](erdDiagram.png)
+![Use Case](UseCase.png)
 <br><br>
 MySQL Queries
 <br><br>
