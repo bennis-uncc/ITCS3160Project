@@ -10,7 +10,7 @@ Introduction
   
 Use Case
 <br>
-![](UseCase.png)
+![Use Case](UseCase.png)
 <br><br>
 Business Rules
 <br>
@@ -22,7 +22,7 @@ Business Rules
 <br><br>
 EERD
 <br>
-![](EERD.png)
+![Diagram](erdDiagram.png)
 <br><br>
 MySQL Queries
 <br><br>
