@@ -21,6 +21,7 @@ Business Rules
 - Eating habits will be recorded to measure the nutrition of campus community members.
 <br><br>
 EERD
+<br>
 Below is the link to my EERD Diagram:
 <br>
 https://github.com/bennis-uncc/ITCS3160Project/blob/master/EERD.png
