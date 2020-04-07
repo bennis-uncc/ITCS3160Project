@@ -10,7 +10,7 @@ Introduction
   
 Use Case
 <br>
-![Use Case](UseCase.png)
+![Use Case](https://github.com/bennis-uncc/ITCS3160Project/blob/master/UseCase.png)
 <br><br>
 Business Rules
 <br>
