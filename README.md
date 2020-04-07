@@ -13,6 +13,12 @@ Use Case
 ![](UseCase.png)
 <br><br>
 Business Rules
+<br>
+- You must be a student, campus faculty, or campus staff.
+- There is a $5 flat delivery fee for all orders.
+- Drivers must provide necessary information to be accepted as a worker.
+- Food providers and restaurants must be approved before being used in this service.
+- Eating habits will be recorded to measure the nutrition of campus community members.
 <br><br>
 EERD
 <br><br>
