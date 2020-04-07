@@ -22,7 +22,7 @@ Business Rules
 <br><br>
 EERD
 <br>
- ![](EERD.png)
+![](EERD.png)
 <br><br>
 MySQL Queries
 <br><br>
