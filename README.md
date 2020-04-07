@@ -22,7 +22,7 @@ Business Rules
 <br><br>
 EERD
 <br>
-![alt text](http://url/to/img.png)
+![alt text](erdDiagram.png)
 <br><br>
 MySQL Queries
 <br><br>
