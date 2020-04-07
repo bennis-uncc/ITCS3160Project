@@ -10,7 +10,7 @@ Introduction
   
 Use Case
 <br>
-![](Screen%Shot%2020-04-07%at%3.37.57%PM.png)
+![](UseCase.png)
 <br><br>
 Business Rules
 <br><br>
