@@ -24,7 +24,7 @@ EERD
 <br>
 Below is the link to my EERD Diagram:
 <br>
-https://github.com/bennis-uncc/ITCS3160Project/blob/master/EERD.png
+![Use Case](https://github.com/bennis-uncc/ITCS3160Project/blob/master/EERD.png)
 <br><br>
 Data Table
 <br>
