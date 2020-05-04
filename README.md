@@ -38,13 +38,9 @@ https://github.com/bennis-uncc/ITCS3160Project/blob/master/driverRating.png
 <br>
 https://github.com/bennis-uncc/ITCS3160Project/blob/master/xNames.png
 <br><br>
-Trigger
-<br><br>
-Stored Procedure
-<br><br>
 Description of Future Work
 <br>
-  The future work to be done would be the whole project aside from creating this first document.
+  There is none, the assignment is finished.
 <br><br>
 MySQL dump
 <br>
