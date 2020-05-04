@@ -33,6 +33,10 @@ Below is the link to my data table:
 https://github.com/bennis-uncc/ITCS3160Project/blob/master/DataTable.png
 <br><br>
 MySQL Queries
+<br>Below is the link to my queries:<br>
+https://github.com/bennis-uncc/ITCS3160Project/blob/master/driverRating.png
+<br>
+https://github.com/bennis-uncc/ITCS3160Project/blob/master/xNames.png
 <br><br>
 Trigger
 <br><br>
